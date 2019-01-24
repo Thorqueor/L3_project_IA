@@ -1,0 +1,16 @@
+Etat du taquin
+0|1|2
+3|4|5
+6|7|8
+Melange du taquin
+Etat du taquin
+1|2|5
+6|0|4
+7|3|8
+Pour Heuristique = 1 Nb Etats = 95 Solution en 6 mouvements et Complexite en Temps : 4.093999862670898 secondes
+Pour Heuristique = 2 Nb Etats = 36 Solution en 6 mouvements et Complexite en Temps : 0.9980001449584961 secondes
+Pour Heuristique = 3 Nb Etats = 28 Solution en 6 mouvements et Complexite en Temps : 0.562000036239624 secondes
+Pour Heuristique = 4 Nb Etats = 36 Solution en 6 mouvements et Complexite en Temps : 1.1180000305175781 secondes
+Pour Heuristique = 5 Nb Etats = 27 Solution en 6 mouvements et Complexite en Temps : 0.5709998607635498 secondes
+Pour Heuristique = 6 Nb Etats = 24 Solution en 6 mouvements et Complexite en Temps : 0.4679999351501465 secondes
+La complexite en Temps minimum est : 0.46799993515 pour heuristique 6
